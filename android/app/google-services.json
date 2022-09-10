@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367748099524",
+    "project_id": "uidauth-ab479",
+    "storage_bucket": "uidauth-ab479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367748099524:android:ead9e82a7c076888ca8891",
+        "android_client_info": {
+          "package_name": "com.example.rajagiri_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367748099524-14shq2l1h85dsjvhea4kvht0k29rela7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajagiri_connect",
+            "certificate_hash": "da650c02fda73a15c9b0a6723d2a6e3300eb54c3"
+          }
+        },
+        {
+          "client_id": "367748099524-p8morbi76rch6jbvem8620q6kovl1amh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqKEkekLMj_6J03q7GYYZDFf0GbE5A6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367748099524-p8morbi76rch6jbvem8620q6kovl1amh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
