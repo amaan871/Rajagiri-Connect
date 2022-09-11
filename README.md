@@ -1,6 +1,11 @@
 
 <h1 align="center">   Rajagiri Connect </h1>
 
+<p align="center"> 
+<a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=Owner&message=amaan871&color=ff3300" alt="Last Commit"/></a> 
+<a href="https://github.com/amaan871/rajagiri-connect/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/amaan871/rajagiri-connect.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
+<a href="https://github.com/amaan871/rajagiri-connect/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
+</p> 
 
 Rajagiri connect is a networking platform that enables the students of Rajagiri to form a social network
 among themselves, enabling them to connect with their seniors, juniors and faculty for sharing of
