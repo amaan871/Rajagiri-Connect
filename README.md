@@ -48,7 +48,6 @@ git clone https://github.com/amaan871/rajagiri-connect.git
 
 ## Warnings
 - You might have to change the Database configuration in the `build.gradle` file if you want the application data to get stored on your Database.
-- This repository is not going to be maintained anymore.
 
 ### Branch Policy
 
